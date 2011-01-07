@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace>
+   <Group
+      name = "Resources">
+      <FileRef
+         location = "container:../../Rules.pdf">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "self:Dominion.xcodeproj">
+   </FileRef>
+</Workspace>
